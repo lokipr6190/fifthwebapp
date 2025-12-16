@@ -1,8 +1,10 @@
 {
     "dependencies" : {
-        "express" : "4.21.2"
+        "express" : "4.21.2",
+        "node-cron": "3.0.3"
     },
     "scripts" : {
         "start" : "node index.js"
     }
+
 }
